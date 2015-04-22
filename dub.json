@@ -1,0 +1,13 @@
+{
+    "name": "selflinoin",
+    "description": "A tiny helper to write a compilation error message as well as dmd",
+    "license": "CC0",
+    "dependencies": {},
+
+    "configurations": [
+        {
+            "name": "unittest",
+            "debugVersions": ["selflinoin"]
+        }
+    ]
+}
